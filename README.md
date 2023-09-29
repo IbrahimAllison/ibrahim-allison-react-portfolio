@@ -27,6 +27,8 @@ I was motivated to create a portfolio as part of my online presence as a web dev
 
 ## Link to the Deployed Application
 
+- Issues with deploying to https://ibrahimallison.github.io/ibrahim-allison-react-portfolio/. Changed the deployment platform to Netify.
+- Here is the link to the deployed application: https://main--timely-centaur-ad022b.netlify.app/
 
 
 **screenshot of the application:** 
@@ -52,7 +54,7 @@ The following technologies were used for the application:
 - ExpressJS
 - Nodemon
 - VS Code
-- Heroku
+- Netify
 - webpack
 - NodeJS, etc.
 
@@ -62,6 +64,7 @@ The following technologies were used for the application:
 - Fontawesome
 - Regex validation in JavaScript email from: https://stackoverflow.com/questions/35788383/regex-validation-in-javascript-email
 - README.md file from my initial portfolio from: https://github.com/IbrahimAllison/ibrahim-allison-professional-portfolio
+
   
 ## License
 
