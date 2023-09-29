@@ -27,7 +27,7 @@ I was motivated to create a portfolio as part of my online presence as a web dev
 
 ## Link to the Deployed Application
 
-- Issues with deploying to https://ibrahimallison.github.io/ibrahim-allison-react-portfolio/. Changed the deployment platform to Netify.
+- Issues with deploying to https://ibrahimallison.github.io/ibrahim-allison-react-portfolio/. Changed the deployment platform to Netlify.
 - Here is the link to the deployed application: https://main--timely-centaur-ad022b.netlify.app/
 
 
