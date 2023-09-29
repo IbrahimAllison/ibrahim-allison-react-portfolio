@@ -21,7 +21,7 @@ The challenge is about building a professional portfolio that showcase my projec
 
 I was motivated to create a portfolio as part of my online presence as a web developer. I also realized that creating a professional portfolio will enhance my job and freelance opportunities as well as enable me to share my work with fellow developers.
 
-## What problem does it solve?
+## What Problem Does It Solve?
 
 "It solves the problem of making the hiring manager's job easy since they are provided another way to analyze my candidacy and qualification better. They can also leverage it to shortlist me as a top candidate for the position they are planning to fill".
 
@@ -31,7 +31,20 @@ I was motivated to create a portfolio as part of my online presence as a web dev
 - Here is the link to the deployed application: https://main--timely-centaur-ad022b.netlify.app/
 
 
-**screenshot of the application:** 
+**screenshot of the deployed application:** 
+
+![image](https://github.com/IbrahimAllison/ibrahim-allison-react-portfolio/assets/116689797/0f178fe2-c875-4920-99ca-2adf3b865a60)
+
+![image](https://github.com/IbrahimAllison/ibrahim-allison-react-portfolio/assets/116689797/99bc6b50-fd00-4321-980d-495b2c7d1d66)
+
+![image](https://github.com/IbrahimAllison/ibrahim-allison-react-portfolio/assets/116689797/4e44a146-b5e2-4191-8785-3b5ba673aa4d)
+
+![image](https://github.com/IbrahimAllison/ibrahim-allison-react-portfolio/assets/116689797/7e12a72f-294e-4090-a68a-3631ed859db5)
+
+![image](https://github.com/IbrahimAllison/ibrahim-allison-react-portfolio/assets/116689797/3a4ff1b8-8539-4111-bc38-f0e5efe52479)
+
+
+
 
 
 
