@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/IbrahimAllison/ibrahim-allison-react-portfolio/static/css/main.3e209c2f.css",
+    "main.js": "/IbrahimAllison/ibrahim-allison-react-portfolio/static/js/main.0fd483b9.js",
+    "static/media/myQuoteGenerator.PNG": "/IbrahimAllison/ibrahim-allison-react-portfolio/static/media/myQuoteGenerator.d826222a85c67cc7c67d.PNG",
+    "static/media/Ibrahim Allison_Resume-September 2023.pdf": "/IbrahimAllison/ibrahim-allison-react-portfolio/static/media/Ibrahim Allison_Resume-September 2023.5a29083de116ddb2915c.pdf",
+    "static/media/codeRefactor.PNG": "/IbrahimAllison/ibrahim-allison-react-portfolio/static/media/codeRefactor.188f92441e2fd32ca1d9.PNG",
+    "static/media/workDayScheduler.png": "/IbrahimAllison/ibrahim-allison-react-portfolio/static/media/workDayScheduler.4fb310be781fdc779992.png",
+    "static/media/weatherDashboard.PNG": "/IbrahimAllison/ibrahim-allison-react-portfolio/static/media/weatherDashboard.ce48c19ec822d833734f.PNG",
+    "static/media/profilePhoto.jpeg": "/IbrahimAllison/ibrahim-allison-react-portfolio/static/media/profilePhoto.49446d8523ecc1ebc395.jpeg",
+    "static/media/passwordGenerator.PNG": "/IbrahimAllison/ibrahim-allison-react-portfolio/static/media/passwordGenerator.324e6c83f483ec2a6f29.PNG",
+    "static/media/noteTaker.png": "/IbrahimAllison/ibrahim-allison-react-portfolio/static/media/noteTaker.93a04121645d9abbb3c7.png",
+    "index.html": "/IbrahimAllison/ibrahim-allison-react-portfolio/index.html",
+    "main.3e209c2f.css.map": "/IbrahimAllison/ibrahim-allison-react-portfolio/static/css/main.3e209c2f.css.map",
+    "main.0fd483b9.js.map": "/IbrahimAllison/ibrahim-allison-react-portfolio/static/js/main.0fd483b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e209c2f.css",
+    "static/js/main.0fd483b9.js"
+  ]
+}
