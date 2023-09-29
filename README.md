@@ -6,8 +6,8 @@ A professional portfolio for Ibrahim Allison.
 
 - [Description](#description)
 - [Motivation for the Project](#motivation-for-the-project)
-- [What Problem Does It Solve?](#What-problem-does-it-solve?)
-- [Link to the Deployed Application](#link-to-deployed-application)
+- [What Problem Does It Solve?](#what-problem-does-it-solve?)
+- [Link to the Deployed Application](#link-to-the-deployed-application)
 - [Installation and Usage](#installation-and-usage)
 - [Technologies Used](#technologies-used)
 - [Credits and References](#credits-and-references)
