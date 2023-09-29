@@ -6,7 +6,7 @@ A professional portfolio for Ibrahim Allison.
 
 - [Description](#description)
 - [Motivation for the Project](#motivation-for-the-project)
-- [What Problem Does It Solve?](#what-problem-does-it-solve?)
+- [What Problem Does It Solve?](#what-problem-does-it-solve)
 - [Link to the Deployed Application](#link-to-the-deployed-application)
 - [Installation and Usage](#installation-and-usage)
 - [Technologies Used](#technologies-used)
@@ -42,6 +42,9 @@ I was motivated to create a portfolio as part of my online presence as a web dev
 ![image](https://github.com/IbrahimAllison/ibrahim-allison-react-portfolio/assets/116689797/7e12a72f-294e-4090-a68a-3631ed859db5)
 
 ![image](https://github.com/IbrahimAllison/ibrahim-allison-react-portfolio/assets/116689797/3a4ff1b8-8539-4111-bc38-f0e5efe52479)
+
+![image](https://github.com/IbrahimAllison/ibrahim-allison-react-portfolio/assets/116689797/95e9e84c-732b-4d45-a749-6461dc2e0d37)
+
 
 
 
