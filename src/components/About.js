@@ -24,7 +24,7 @@ function About() {
                 About Ibrahim Allison
                 </Card.Title>
                 <Card.Text>
-                Ibrahim Allison is a Full-Stack Web Developer in Training with a passion for delivering quality software.
+                Ibrahim Allison is a Full-Stack Web Developer with a passion for delivering quality software.
                 He is an experienced Software Tester with 13 years of experience in manual and automated testing,
                 including roles as a test lead on several projects. 
                 
